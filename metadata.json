@@ -1,0 +1,6 @@
+{
+  "name": "AGROSHIELD",
+  "description": "Watershed-Aware Agricultural Decision Intelligence platform providing runoff risk estimation, Before-You-Apply checks, and terrain-aware farming decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
